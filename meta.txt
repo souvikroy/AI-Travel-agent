@@ -1,0 +1,350 @@
+category = {
+  "travel_categories": [
+    {
+      "type": "honeymoon",
+      "description": "Romantic getaways for couples, perfect for honeymoons and anniversaries."
+    },
+    {
+      "type": "family",
+      "description": "Trips designed for families with activities suitable for all age groups."
+    },
+    {
+      "type": "friends_group",
+      "description": "Fun and exciting trips ideal for groups of friends or large gatherings."
+    },
+    {
+      "type": "solo",
+      "description": "Adventurous and self-exploratory trips perfect for solo travelers."
+    },
+    {
+      "type": "adventure",
+      "description": "Thrilling experiences such as trekking, extreme sports, and outdoor challenges."
+    },
+    {
+      "type": "nature",
+      "description": "Scenic trips focusing on forests, mountains, lakes, and peaceful natural retreats."
+    },
+    {
+      "type": "religious",
+      "description": "Pilgrimage and spiritual journeys to sacred and historical places."
+    },
+    {
+      "type": "wild_life",
+      "description": "Safaris and wildlife explorations to observe animals in their natural habitats."
+    },
+    {
+      "type": "water_activity",
+      "description": "Trips featuring water-based activities like snorkeling, scuba diving, and rafting."
+    }
+  ]
+}
+
+
+
+Destination_type = 
+{
+  "travel_destinations": [
+    {
+      "type": "india",
+      "description": "Domestic travel destinations within India, covering cultural, historical, and natural attractions."
+    },
+    {
+      "type": "international",
+      "description": "Global travel destinations outside India, offering diverse cultural and adventure experiences."
+    }
+  ]
+}
+
+
+
+Budget_per_person = {
+  "price_ranges": [
+    {
+      "range": "<10000 INR",
+      "description": "Budget-friendly travel options under 10,000 INR."
+    },
+    {
+      "range": "10000-20000 INR",
+      "description": "Affordable travel experiences between 10,000 and 20,000 INR."
+    },
+    {
+      "range": "20000-40000 INR",
+      "description": "Mid-range travel packages ranging from 20,000 to 40,000 INR."
+    },
+    {
+      "range": "40000-60000 INR",
+      "description": "Premium travel experiences priced between 40,000 and 60,000 INR."
+    },
+    {
+      "range": "60000-80000 INR",
+      "description": "Luxury travel options within the 60,000 to 80,000 INR range."
+    },
+    {
+      "range": ">80000 INR",
+      "description": "Ultra-luxury and high-end travel experiences exceeding 80,000 INR."
+    }
+  ]
+}
+
+trip_duration = {
+  "trip_durations": [
+    {
+      "range": "1 to 3 days",
+      "description": "Short trips and weekend getaways lasting 1 to 3 days."
+    },
+    {
+      "range": "4 to 6 days",
+      "description": "Ideal trips for a short vacation ranging from 4 to 6 days."
+    },
+    {
+      "range": "7 to 9 days",
+      "description": "Medium-length vacations covering multiple experiences in 7 to 9 days."
+    },
+    {
+      "range": "10 to 12 days",
+      "description": "Extended trips for in-depth exploration lasting 10 to 12 days."
+    },
+    {
+      "range": "13 or more days",
+      "description": "Long vacations or slow travel experiences of 13 days or more."
+    }
+  ]
+}
+
+
+activities = {
+  "travel_themes": [
+    {
+      "type": "nature",
+      "description": "Trips focused on exploring natural landscapes, mountains, forests, and wildlife."
+    },
+    {
+      "type": "beach",
+      "description": "Relaxing and fun trips to beautiful beaches with coastal experiences."
+    },
+    {
+      "type": "water_activities",
+      "description": "Adventurous water-based activities like snorkeling, scuba diving, and rafting."
+    },
+    {
+      "type": "city_tour",
+      "description": "Exploring urban destinations, including sightseeing, cultural landmarks, and local attractions."
+    },
+    {
+      "type": "self_drive",
+      "description": "Road trips and self-drive vacations for those who love to travel at their own pace."
+    }
+  ]
+}
+
+destination_india = {
+  "top_20_tour_destinations_in_india": [
+    {
+      "name": "Agra",
+      "state": "Uttar Pradesh",
+      "description": "Home to the iconic Taj Mahal, Agra Fort, and Fatehpur Sikri."
+    },
+    {
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "description": "The Pink City, famous for Hawa Mahal, Amer Fort, and rich Rajasthani culture."
+    },
+    {
+      "name": "Goa",
+      "state": "Goa",
+      "description": "Known for its stunning beaches, nightlife, Portuguese heritage, and churches."
+    },
+    {
+      "name": "Kerala Backwaters",
+      "state": "Kerala",
+      "description": "Serene houseboat cruises through lush green waterways and lakes."
+    },
+    {
+      "name": "Leh-Ladakh",
+      "state": "Ladakh",
+      "description": "A paradise for adventure seekers with breathtaking landscapes and monasteries."
+    },
+    {
+      "name": "Manali",
+      "state": "Himachal Pradesh",
+      "description": "A popular hill station with snow-capped mountains and adventure sports."
+    },
+    {
+      "name": "Shimla",
+      "state": "Himachal Pradesh",
+      "description": "The Queen of Hills, known for colonial architecture and scenic beauty."
+    },
+    {
+      "name": "Varanasi",
+      "state": "Uttar Pradesh",
+      "description": "The spiritual capital of India, famous for Ganga Aarti and ancient temples."
+    },
+    {
+      "name": "Rishikesh",
+      "state": "Uttarakhand",
+      "description": "A yoga hub and adventure destination with river rafting and meditation centers."
+    },
+    {
+      "name": "Darjeeling",
+      "state": "West Bengal",
+      "description": "A scenic hill station known for tea gardens and the Toy Train."
+    },
+    {
+      "name": "Andaman and Nicobar Islands",
+      "state": "Andaman and Nicobar",
+      "description": "Exotic islands with crystal-clear beaches, water sports, and marine biodiversity."
+    },
+    {
+      "name": "Mysore",
+      "state": "Karnataka",
+      "description": "Famous for the grand Mysore Palace and vibrant Dussehra celebrations."
+    },
+    {
+      "name": "Udaipur",
+      "state": "Rajasthan",
+      "description": "The City of Lakes, known for its palaces, heritage hotels, and romantic ambiance."
+    },
+    {
+      "name": "Ooty",
+      "state": "Tamil Nadu",
+      "description": "A popular hill station in the Nilgiris, known for tea gardens and toy train rides."
+    },
+    {
+      "name": "Mahabalipuram",
+      "state": "Tamil Nadu",
+      "description": "Famous for rock-cut temples, UNESCO heritage sites, and scenic coastal beauty."
+    },
+    {
+      "name": "Hampi",
+      "state": "Karnataka",
+      "description": "An ancient UNESCO World Heritage Site with stunning ruins and temples."
+    },
+    {
+      "name": "Kolkata",
+      "state": "West Bengal",
+      "description": "The cultural capital of India, known for colonial architecture and vibrant festivals."
+    },
+    {
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "description": "The financial capital, home to Bollywood, Marine Drive, and historical sites."
+    },
+    {
+      "name": "Rann of Kutch",
+      "state": "Gujarat",
+      "description": "A vast salt desert, famous for the Rann Utsav and cultural heritage."
+    },
+    {
+      "name": "Khajuraho",
+      "state": "Madhya Pradesh",
+      "description": "Known for its stunning temples with intricate erotic sculptures and carvings."
+    }
+  ]
+}
+
+
+destination_international = {
+  "top_20_tour_destinations_outside_india": [
+    {
+      "name": "Paris",
+      "country": "France",
+      "description": "The City of Love, famous for the Eiffel Tower, Louvre Museum, and romantic ambiance."
+    },
+    {
+      "name": "London",
+      "country": "United Kingdom",
+      "description": "A historic and cultural hub with attractions like Big Ben, Buckingham Palace, and the Tower of London."
+    },
+    {
+      "name": "Dubai",
+      "country": "United Arab Emirates",
+      "description": "A luxury destination known for Burj Khalifa, desert safaris, and shopping festivals."
+    },
+    {
+      "name": "Bali",
+      "country": "Indonesia",
+      "description": "A tropical paradise with beautiful beaches, temples, and vibrant nightlife."
+    },
+    {
+      "name": "Singapore",
+      "country": "Singapore",
+      "description": "A futuristic city with attractions like Marina Bay Sands, Sentosa Island, and Universal Studios."
+    },
+    {
+      "name": "New York City",
+      "country": "USA",
+      "description": "The Big Apple, known for Times Square, Statue of Liberty, and Broadway shows."
+    },
+    {
+      "name": "Rome",
+      "country": "Italy",
+      "description": "A city full of ancient history, featuring the Colosseum, Vatican City, and the Pantheon."
+    },
+    {
+      "name": "Tokyo",
+      "country": "Japan",
+      "description": "A blend of tradition and technology, with attractions like Shibuya, Mt. Fuji, and cherry blossoms."
+    },
+    {
+      "name": "Sydney",
+      "country": "Australia",
+      "description": "Famous for the Sydney Opera House, Harbour Bridge, and beautiful beaches."
+    },
+    {
+      "name": "Barcelona",
+      "country": "Spain",
+      "description": "A vibrant city known for Gaudi’s architecture, beaches, and a lively nightlife."
+    },
+    {
+      "name": "Phuket",
+      "country": "Thailand",
+      "description": "A top beach destination with scenic islands, nightlife, and water activities."
+    },
+    {
+      "name": "Venice",
+      "country": "Italy",
+      "description": "The floating city, famous for its canals, gondola rides, and St. Mark’s Square."
+    },
+    {
+      "name": "Santorini",
+      "country": "Greece",
+      "description": "A picturesque island with stunning white-washed buildings and breathtaking sunsets."
+    },
+    {
+      "name": "Machu Picchu",
+      "country": "Peru",
+      "description": "A UNESCO World Heritage Site, home to ancient Incan ruins in the Andes Mountains."
+    },
+    {
+      "name": "Istanbul",
+      "country": "Turkey",
+      "description": "A city that blends Europe and Asia, famous for the Hagia Sophia and the Grand Bazaar."
+    },
+    {
+      "name": "Cairo",
+      "country": "Egypt",
+      "description": "Home to the Pyramids of Giza, Sphinx, and rich ancient Egyptian history."
+    },
+    {
+      "name": "Rio de Janeiro",
+      "country": "Brazil",
+      "description": "Known for Christ the Redeemer, Copacabana Beach, and vibrant carnivals."
+    },
+    {
+      "name": "Amsterdam",
+      "country": "Netherlands",
+      "description": "Famous for its canals, museums, and tulip gardens."
+    },
+    {
+      "name": "Zurich",
+      "country": "Switzerland",
+      "description": "A beautiful city with stunning lakes, Swiss Alps, and rich cultural heritage."
+    },
+    {
+      "name": "Cape Town",
+      "country": "South Africa",
+      "description": "A scenic coastal city known for Table Mountain, wildlife, and vineyards."
+    }
+  ]
+}
+
