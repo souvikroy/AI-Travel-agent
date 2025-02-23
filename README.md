@@ -1,6 +1,8 @@
-# AI Tour Planner
+# TRAVEL ai AGENT
 
 An AI-powered tour planning system that generates personalized tour packages based on user preferences. The system uses OpenAI's GPT-4 and Streamlit to create detailed tour plans similar to professional travel agency packages.
+
+https://www.loom.com/share/2b50a8727b96457ebd6a9f9dc6bf8b1e?sid=838f2efc-442b-45b6-ae92-75cb10b5b915
 
 ## Features
 
